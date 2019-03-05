@@ -1,2 +1,2 @@
 # codingame
-Code for codingame online contests
+My code for codingame online contests
