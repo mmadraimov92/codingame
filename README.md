@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In this reposority you will find my working solutions for puzzles on the platform https://www.codingame.com/. In the table below you can see which puzzles I already completed.
+In this reposority you will find my working solutions for puzzles and bots for contests on the platform https://www.codingame.com/.
 
 ## Contests
 
