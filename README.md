@@ -10,10 +10,11 @@ In this reposority you will find my working solutions for puzzles on the platfor
 
 ## Contests
 
-| No. | Contest Name | League | Languages |
-|-----|--------------|--------|-----------|
-| 1 | [Coders of the Caribean](https://www.codingame.com/leaderboards/challenge/coders-of-the-caribbean/global) | Gold | [C](https://github.com/DrMad92/codingame/blob/master/online_contests/coders_of_the_caribean/solution.c) |
-| 2 | [A code of Ice and Fire](https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/global) | Silver | [Ruby](https://github.com/DrMad92/codingame/blob/master/online_contests/a_code_of_ice_and_fire/solution.rb) |
+| No. | Contest Name | Rank | Date | Languages |
+|-----|--------------|----------|-----------|
+| 1 | [Coders of the Caribean](https://www.codingame.com/leaderboards/challenge/coders-of-the-caribbean/global) | 1197/3624 |  14.04.2017 | [C](https://github.com/DrMad92/codingame/blob/master/online_contests/coders_of_the_caribean/solution.c) |
+| 2 | [A code of Ice and Fire](https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/global) | 808/2160 | 17.05.2019 | [Ruby](https://github.com/DrMad92/codingame/blob/master/online_contests/a_code_of_ice_and_fire/solution.rb) |
+| 3 | [Codebusters](https://www.codingame.com/leaderboards/challenge/codebusters/global) | 627/1979 | 25.06.2016 | [C](https://github.com/DrMad92/codingame/blob/master/online_contests/codebusters/solution.c) |
 
 ## Puzzles
 
