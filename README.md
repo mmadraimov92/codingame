@@ -8,10 +8,17 @@
 
 In this reposority you will find my working solutions for puzzles on the platform https://www.codingame.com/. In the table below you can see which puzzles I already completed.
 
-## Completed Puzzles
+## Contests
+
+| No. | Contest Name | League | Languages |
+|-----|--------------|--------|-----------|
+| 1 | [Coders of the Caribean](https://www.codingame.com/leaderboards/challenge/coders-of-the-caribbean/global) | Gold | [C](https://github.com/DrMad92/codingame/blob/master/online_contests/coders_of_the_caribean/solution.c) |
+| 2 | [A code of Ice and Fire](https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/global) | Silver | [Ruby](https://github.com/DrMad92/codingame/blob/master/online_contests/a_code_of_ice_and_fire/solution.rb) |
+
+## Puzzles
 
 | No. | Puzzle Name | State| Difficulty | Languages |
-|-----|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----|-------------|------|------------|-----------|
 | 1 | [1010(1)](https://www.codingame.com/training/medium/10101) | :x: Not Completed | Medium | |
 | 2 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy | |
 | 3 | [2.5D maze](https://www.codingame.com/training/medium/2-5d-maze) | :x: Not Completed | Medium | |
