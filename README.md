@@ -22,7 +22,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
-| 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy | |
+| 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/1x1x1_rubiks_cube_movements/solution.py) |
 | 2 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
 | 3 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/ascii_art/solution.c), [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/ascii_art/solution.py) |
 | 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
