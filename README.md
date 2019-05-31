@@ -18,14 +18,14 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles
 
-### Easy (12/48 completed)
+### Easy (13/48 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/1x1x1_rubiks_cube_movements/solution.py) |
 | 2 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/addem_up/solution.py) |
 | 3 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/ascii_art/solution.c), [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/ascii_art/solution.py) |
-| 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
+| 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/balanced_ternary_computer_encode/solution.py) |
 | 5 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :x: Not Completed | Easy | |
 | 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
 | 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
