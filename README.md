@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles
 
-### Easy
+### Easy (12/48 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -71,7 +71,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 47 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |       |
 | 48 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |       |
 
-### Medium
+### Medium (13/102 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -178,7 +178,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 101 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
 | 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/war/solution.c) |
 
-### Hard
+### Hard (2/105 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -288,7 +288,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 104 | [X egg problem](https://www.codingame.com/training/hard/x-egg-problem)  | :x: Not Completed | Hard | |
 | 105 | [Zergling rush](https://www.codingame.com/training/hard/zergling-rush)  | :x: Not Completed | Hard | |
 
-### Very hard
+### Very hard (0/46 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
