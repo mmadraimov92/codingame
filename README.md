@@ -288,13 +288,13 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 104 | [X egg problem](https://www.codingame.com/training/hard/x-egg-problem)  | :x: Not Completed | Hard | |
 | 105 | [Zergling rush](https://www.codingame.com/training/hard/zergling-rush)  | :x: Not Completed | Hard | |
 
-### Very hard (0/46 completed)
+### Very hard (1/46 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [Binary neural network - Part 1](https://www.codingame.com/training/expert/binary-neural-network---part-1) | :x: Not Completed | Very Hard | |
 | 2 | [Binary neural network - Part 2](https://www.codingame.com/training/expert/binary-neural-network---part-2) | :x: Not Completed | Very Hard | |
-| 3 | [Bulls and Cows](https://www.codingame.com/training/expert/bulls-and-cows) | :x: Not Completed | Very Hard | |
+| 3 | [Bulls and Cows](https://www.codingame.com/training/expert/bulls-and-cows) | :heavy_check_mark: Completed | Very Hard | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/very_hard/bulls_and_cows/solution.py) |
 | 4 | [CG Chat interpreter - Part 1](https://www.codingame.com/training/expert/cg-chat-interpreter---part-1) | :x: Not Completed | Very Hard | |
 | 5 | [Chemical Equation Balancing](https://www.codingame.com/training/expert/chemical-equation-balancing) | :x: Not Completed | Very Hard | |
 | 6 | [CodinDice](https://www.codingame.com/training/expert/codindice) | :x: Not Completed | Very Hard | |
