@@ -70,10 +70,8 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 46 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
 | 47 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |       |
 | 48 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
-| 49 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikapthca_ep1/solution.py) |
-| 50 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikapthca_ep2/solution.py) |
-| 51 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/easy/detective-pikaptcha-ep3)  | :x: Not Completed | Easy |       |
-| 52 | [Detective Pikaptcha Ep4](https://www.codingame.com/training/easy/detective-pikaptcha-ep4)  | :x: Not Completed | Easy |       |
+| 49 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep1/solution.py) |
+| 50 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep2/solution.py) |
 
 ### Medium (13/102 completed)
 
@@ -181,6 +179,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 100 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
 | 101 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
 | 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/war/solution.c) |
+| 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
 ### Hard (2/105 completed)
 
@@ -291,6 +290,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 103 | [Winamax Sponsored Contest](https://www.codingame.com/training/hard/winamax-sponsored-contest) | :x: Not Completed | Hard | |
 | 104 | [X egg problem](https://www.codingame.com/training/hard/x-egg-problem)  | :x: Not Completed | Hard | |
 | 105 | [Zergling rush](https://www.codingame.com/training/hard/zergling-rush)  | :x: Not Completed | Hard | |
+| 106 | [Detective Pikaptcha Ep4](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)  | :x: Not Completed | Hard |  |
 
 ### Very hard (1/46 completed)
 
