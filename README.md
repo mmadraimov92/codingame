@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles
 
-### Easy (13/48 completed)
+### Easy (15/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -73,7 +73,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 49 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep1/solution.py) |
 | 50 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep2/solution.py) |
 
-### Medium (13/102 completed)
+### Medium (13/103 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -181,7 +181,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/war/solution.c) |
 | 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
-### Hard (2/105 completed)
+### Hard (2/106 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
