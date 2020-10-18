@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles
 
-### Easy (17/50 completed)
+### Easy (18/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -28,7 +28,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/balanced_ternary_computer_encode/solution.py) |
 | 5 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/bank_robbers/solution.py) |
 | 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :heavy_check_mark: Completed | Easy | [Ruby](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/brackets_extreme_edition/solution.rb) |
-| 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
+| 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/brick_in_the_wall/solution.py) |
 | 8 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
 | 9 | [Carmichael numbers](https://www.codingame.com/training/easy/carmichael-numbers) | :x: Not Completed | Easy | |
 | 10 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/chuck_norris/solution.py) |
