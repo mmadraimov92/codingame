@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 
 ## Puzzles
 
-### Easy (18/50 completed)
+### Easy (19/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -42,7 +42,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 18 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
 | 19 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
 | 20 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/horse_racing_duals/solution.c), [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/horse_racing_duals/solution.py) |
-| 21 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
+| 21 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :heavy_check_mark: Completed | Easy | [Go](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/horse_racing_hyperduals/solution.go) |
 | 22 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
 | 23 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
 | 24 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
